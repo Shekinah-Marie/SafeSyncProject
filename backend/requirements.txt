@@ -1,0 +1,14 @@
+# SafeSync CCTV Flask Backend Requirements
+# Install via:
+#   py -3.11 -m pip install -r requirements.txt
+
+flask
+flask-cors
+flask-socketio
+werkzeug
+mysql-connector-python
+opencv-contrib-python
+numpy
+pillow
+requests
+eventlet

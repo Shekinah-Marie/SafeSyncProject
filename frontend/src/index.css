@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+.safe-sync-title {
+  font-family: 'Cinzel Decorative', serif;
+  font-weight: 700;
+  color: #6b7760;
+  letter-spacing: 2px;
+}
+@import "leaflet/dist/leaflet.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+
+.notable-regular {
+  font-family: "Notable", sans-serif;
+  font-weight: 3500;
+  font-style: normal;
+}
+
